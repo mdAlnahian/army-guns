@@ -1,0 +1,19 @@
+.nav_bar{
+    z-index: 100;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+    padding: 12px 2px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 2px solid whitesmoke;
+}
+.cart-icon{
+    cursor: pointer;
+}

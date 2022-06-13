@@ -1,0 +1,22 @@
+.all-guns{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+.all-guns-container{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 75px;
+
+}
+.cart-item{
+    width: 50%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(123, 126, 128);
+}
+.cart-item-image{
+    width: 4%;
+}

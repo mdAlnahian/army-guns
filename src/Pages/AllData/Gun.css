@@ -1,0 +1,32 @@
+.gun-container{
+    width: 270px;
+    height: auto;
+    /* background: #000; */
+    /* color: #fff; */
+    padding: 12px;
+    border-radius: 2px;
+    position: relative;
+    border: 2px solid black;
+}
+.gun-img{
+    width: 100%;
+}
+.cart-button{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin: 0 -12px;
+    padding: 14px;
+    outline: none;
+    border: none;
+    background: black;
+    color: white;
+    cursor: pointer;
+    font: bolder;
+}
+.marge-zero{
+    margin: 0px;
+}
+.padding-hero{
+    padding: 12px 0px;
+}
